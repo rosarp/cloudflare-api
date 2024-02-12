@@ -1,2 +1,2 @@
 # cloudflare-api
-Library to connect cloudflare API
+Library to connect cloudflare API v4

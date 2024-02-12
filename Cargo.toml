@@ -1,0 +1,7 @@
+[package]
+name = "cloudflare-api"
+version = "0.0.0"
+edition = "2021"
+description = "Library to connect cloudflare API v4"
+
+[dependencies]
